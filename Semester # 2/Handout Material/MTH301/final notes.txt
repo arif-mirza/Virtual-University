@@ -1,0 +1,91 @@
+21,22,,
+
+r is called radial distance which between the o between P.
+0 are called the polar angle.
+p(r,0) = (x,y) same this.
+(3, 225), (-3, 75)
+
+lectrue # 28
+smooth functions : 
+r(t) is called the smooth function if there compoenets (x,y) of r have continuous derivative w.r.t  t. and r'(t) != 0.
+=> properties of derivatives
+  
+
+
+lectrue # 29 (Change of parameter)
+
+arc length formula
+example find the arc length Given : x,y,z(optional)
+
+how to find parametric equations?
+method :
+1-  convert into du
+2- taking derivatives 
+3- arc length find karni hy
+4- arc length me se jo s ki value aye gi us se t nikalna hy.
+5- then put the inital values of t.
+
+lectrue # 30 (Exact Differential)
+exact deferrials : agar dono ka derivative lene se answers same ata hy yu exact derivative hy 
+example 9P/ 9y = 8x  |   9Q/9x = 8x
+
+means k exact derivative hy aur p k sath w.r.t y karte hen aur Q ka sath w.r.t x karte hen
+
+integration case me ham integration lete hen bas is me ak extra chez add karte hen k p wali function me F(y) add kare ge aur F(X) Q wale function me add kare ge
+
+questions types :
+1- find the area of triangle : 
+ 	1- find the slopes first.
+	2- find the slope by using this formula m=slope of OA
+	3- equation of triangle y-y1 = m(x-x1) of OA and find other remaining two.
+	4- then find the area of cloed slope by using this formula -\ydy
+
+
+2- line integeral 
+lim and simition mil kar integral bana dete hen
+
+Lectrue # 31 (Line integral)
+
+example types questions : 
+Given : 
+one integral
+2 points A(0,2) B(2,3)
+steps of solution :
+1- seperate the P and Q
+2- puting the value of y in P which is given in question
+3-simply 
+
+=> properties of integrals
+
+Lectrue # 32 (Line integral - Examples)
+
+ question type given : closed integral and three points (0,2), (0,2), (0,2), 
+we find the limits by using the points which is given.
+
+=> line integral w.r.t. arc length
+1 formula is need to remember. ds/dt
+=> parametric equations:-
+1 formula is need to remember. ds/dt
+
+Lectrue # 33 (Line integral - Examples)
+
+1- exact differentials
+ 	to solvve P = Q = R;
+	for find the integral we pluse the p, Q, R after differials
+2- greems thoerm
+ if exact differential na hi tu ham greem thorem apply krte he
+formula of greem thorem yad krna hy
+
+dx,dy mil kr area bnate hen
+Given : elipse equation
+
+
+Lectrue # 34 (Line integral - Examples)
+
+
+
+
+
+
+
+

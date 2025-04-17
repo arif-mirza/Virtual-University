@@ -1,0 +1,37 @@
+Lecture No.01 
+What is Object-Orientation? 
+01.2. What is a Model? 
+01.5. What is an Object? 
+
+Lecture No.02 
+Information Hiding: 
+
+Lecture No.03
+what is Abstraction? 
+what is classes?
+What is inheritance ? kisi paraent 
+major benefits of inheritance ?
+
+Lecture No.04
+what is generalization?  
+ham ak ki type ki classes ko use karne k liye ham parent class bna lete hen   ye generalization kahte hen. 
+
+what is specialization (Restriction) ?
+jab ham kisi bhi class par koi restriction lagate hen tu is ko speciazlization kahte hen jses ham ne ak class of age define ki aur jab hamne is ko kisi aur jaga use kiya tu ham ne age k sath restriction bhi laga di spouse age (18 : 100);
+
+what is overriding?
+jab ham ak hi function do jaga use karte hen wo bhi new bna kar us k access na karo us ki jaga ak aur us jese function bna lo is ko overriding kahte hen. Ak aysa function jo parent me bhi ho aur child me bhi ho.
+
+what is extension or sub titile?
+ jab ham koi function banate hen aur is me mazeed new features add karte hen tu is ko Extension ya sub title kahte hen.
+
+what is Abstract classes?
+aysi classes jis ko dekh kar ap new classes bnaye drive kare us ko abstract classes kahte hen. Jese koi khyali plao banate hen kisi kaam ka phir us ko implement karte hen. 
+
+what is drived classes?
+jo classes abstract classes se li jate hen is ko drived classes kate hen. 
+
+ what  is concrete ckasses?
+wo classes jo ham drived classes se akhz karte hen concrete classes kate hen. 
+
+ 

@@ -1,0 +1,5 @@
+Lecture No. 04 
+1- how many method of linked list?
+2- what is doubly link list?
+3- what is Circularly linked list?
+4- what is josephus problem?

@@ -1,0 +1,7 @@
+Lecture No. 04 
+1 - what is data independence? how many types of data independence?
+2 - what is physical data independence?
+3- what is logical data independence?
+4- write the Functions of DBMS? write down the names of all.
+5- write the important functions that DBMS performs? 
+6- what is DMS Environments? write downt their names?
