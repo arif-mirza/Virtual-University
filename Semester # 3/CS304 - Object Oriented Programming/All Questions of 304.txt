@@ -31,7 +31,79 @@ aysi classes jis ko dekh kar ap new classes bnaye drive kare us ko abstract clas
 what is drived classes?
 jo classes abstract classes se li jate hen is ko drived classes kate hen. 
 
- what  is concrete ckasses?
+what  is concrete classes?
 wo classes jo ham drived classes se akhz karte hen concrete classes kate hen. 
 
- 
+LECTURE NO.05
+what is inheritance? 
+parent aur child k relation of inharience kahte hen. 
+
+what is multiple inheritance?
+one child multiple parents
+example : fish , woman and mermaid
+
+write the advantages and disadvantages of multiple inheritance?
+
+what is association?
+
+Interaction of different objects in OO model (or in problem domain) is known as 
+association.  
+This association can be represented 
+with a line along an arrow head (         ) or without arrow head. 
+jab hamare ak ya ak se zyda objects appas me link karte hen tu is ko association kahte hen.
+
+what 
+
+ write the kinds of association?
+
+there are 2 types of assiciation,
+1)  class assiciation => when we link 2 or more classes to each other then its called class assiciation.
+2) Object assiciation => jab hame ak class k object ko kisi dosre class k object k sath interact karte hen tu is ko object assiciation kahte hen.
+
+how many types of object association?
+• Simple Association  =>  The two interacting objects have no intrinsic relationship with other object.
+• Composition 
+• Aggregation 
+
+Simple association ===>
+
+Kinds of Simple Association w.r.t Navigation
+
+1. One-way Association 
+2. Two-way Association 
+	1 - One-way Association 
+	In One way association we can navigate along a single direction only, it is denoted by an arrow towards the server object. 
+
+	2. Two-way Association 
+	In two way association we can navigate in both directions, it is denoted by a line between the associated objects 
+
+Kinds of Simple Association w.r.t Cardinality 
+
+1. Binary Association
+2. Ternary Association 
+3. N-ary Association 
+
+	1. Binary Association
+	It associates objects of exactly two classes; it is denoted by a line, or an arrow between the associated objects. 
+	2. Ternary Association
+	It associates objects of exactly three classes; it is denoted by a diamond with lines connected to associated objects. 
+	students , teacher and Course
+	3. N-ary Association 
+	An association between 3 or more classes its practical examples are very rare. 
+
+What is Composition?
+jab ham hamna ak object bohat sare chute chute parts ko mila kar banate hen tu is ko composition kahte hen.
+definition : An object may be composed of other smaller objects, the relationship between the “part” objects and the “whole” object is known as Composition, Composition is represented by a line with a filled-diamond head towards the composer object 	
+
+what is Aggregation?
+jab do ya do se zyda objects mil kar koi chiz banate hen but is me sari chizon ka ak sath involve hona zarori nai hota. 
+example : aj room hy kese ak room room hota hy agar is koi chiz misiing bhi ho tu ye room hi hota hy. is ko unfilled dimond se zahir kiya jata hy. 
+
+
+LECTURE NO.06
+
+what is Class Compatibility?
+kia koi class dosri class k liye comparitible hy kia isko means k child class parent class ki comparitible hoti hy.
+
+what is Polymorphism?
+jab ham apne ak object ko different anaz se use karte hen tu is ko polymorphism kahte hen.
