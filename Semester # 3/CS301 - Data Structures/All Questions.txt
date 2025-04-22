@@ -3,3 +3,20 @@ Lecture No. 04
 2- what is doubly link list?
 3- what is Circularly linked list?
 4- what is josephus problem?
+
+
+Lecture No. 05
+
+1- what is the benefits of using circular lst?
+2- what is abstract data types?
+3- what is stacks?
+4-  whats are the interface methods of the stacks? like Push() , pop(), top()?
+5-  how to use Stack implementation using arrays?
+
+Lecture No. 06
+
+1- how to use stacks using Linked List?
+2-  Stack Implementation: Array or Linked List ??
+3- what is the use of Stack?
+4- what are the Precedence of Operators?
+5- write down the Examples of Infix to Postfix?
