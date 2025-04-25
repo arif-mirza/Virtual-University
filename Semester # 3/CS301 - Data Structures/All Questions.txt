@@ -9,6 +9,8 @@ Lecture No. 05
 
 1- what is the benefits of using circular lst?
 2- what is abstract data types?
+ans )  The term abstract data type (ADT) refers to the basic mathematical concept that defines 
+the data type
 3- what is stacks?
 4-  whats are the interface methods of the stacks? like Push() , pop(), top()?
 5-  how to use Stack implementation using arrays?
@@ -20,3 +22,13 @@ Lecture No. 06
 3- what is the use of Stack?
 4- what are the Precedence of Operators?
 5- write down the Examples of Infix to Postfix?
+
+Lecture No. 07
+
+1- how to  Evaluating postfix expressions?
+2- what is the cencept of Infix to postfix Conversion ?
+
+Lecture No. 08
+1- what is c++ templates? what is generic data types?
+2- how are we Implementation of Stack?
+3- how we understand the Function Call Stack ?

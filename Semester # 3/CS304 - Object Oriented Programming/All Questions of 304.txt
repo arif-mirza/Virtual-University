@@ -107,3 +107,19 @@ kia koi class dosri class k liye comparitible hy kia isko means k child class pa
 
 what is Polymorphism?
 jab ham apne ak object ko different anaz se use karte hen tu is ko polymorphism kahte hen.
+
+LECTURE NO.07
+
+1- what are the classes ?
+2- what are the  Abstraction?
+3- what are the member functions?
+
+Lecture No.08
+
+1- what are the member functions?
+2- what are Inline Functions?
+3- what are Constructor ?
+4- what are Default Constructor ?
+5- what is Constructor Overloading?
+
+
