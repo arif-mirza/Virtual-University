@@ -29,6 +29,8 @@ Lecture No. 07
 2- what is the cencept of Infix to postfix Conversion ?
 
 Lecture No. 08
-1- what is c++ templates? what is generic data types?
-2- how are we Implementation of Stack?
-3- how we understand the Function Call Stack ?
+1- what is c++ templates?
+2-  what is generic data types?
+3- how are we Implementation of Stack?
+4- how we understand the Function Call Stack?
+5- 
