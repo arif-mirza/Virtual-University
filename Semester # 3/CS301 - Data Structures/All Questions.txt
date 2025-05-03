@@ -33,4 +33,8 @@ Lecture No. 08
 2-  what is generic data types?
 3- how are we Implementation of Stack?
 4- how we understand the Function Call Stack?
-5- 
+
+Lecture No. 09
+1- what is Queues?
+write the uses of Queue by using Array?
+

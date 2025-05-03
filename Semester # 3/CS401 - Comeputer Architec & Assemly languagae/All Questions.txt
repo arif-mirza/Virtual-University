@@ -39,3 +39,35 @@ move 15 to bx
 add bx to ax 
 
 Q#7 ) What is Assembler, Linker, and Debugger?
+Q#8) what are BX, BP, SI and DI?
+Q#9) what is the importance of square brackets around the  value?
+Q#10) what is JNZ? agar zaro a jaye tu jamp kar jao aur agar zero na aye tu jump nai karna
+
+
+=========== 3 ================                                               
+                Branching 
+=============================
+
+3.1. COMPARISON AND CONDITIONS 
+3.2. CONDITIONAL JUMPS 
+3.3. UNCONDITIONAL JUMP 
+3.4. RELATIVE ADDRESSING 
+3.5. TYPES OF JUMP 
+
+
+=========== 4 ================                                               
+                Bit Manipulations
+=============================
+ 1- Bit Manipulations
+2- SHIFTING AND ROTATIONS
+      3- what is the Shift Logical Right(SHR)?
+      4- What is Shift Arithmetic Right (SAR)?
+      5- What is rotate Right (ROR)?
+      6- what is Rotate left (ROL)?
+      7- What is Rotate Through Carry Right (RCR)?
+      8- what is Rotate Through Carry left (RCL)?
+9- what is Extended Shifting?
+10- what is BITWISE LOGICAL OPERATIONS ? write down all the its operation (AND, OR, XOR, NOT)
+11- what is Selective Bit Clearing ?
+
+
