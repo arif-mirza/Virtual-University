@@ -158,6 +158,13 @@ what is the concept of this pointer in static member functions?
 what is global Variables?
 what is the use of Array of Objects?
 
+Lecture No.13
+1- what is pointer ot object?
+2- write a program to understand this concept?
+
+Lecture No.14
+1- what is the concept of Composition?
+2- write a practical example with code to understand the Composition?
 
 
 

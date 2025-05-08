@@ -38,3 +38,24 @@ Lecture No. 09
 1- what is Queues?
 write the uses of Queue by using Array?
 
+Lecture No. 11
+1- what is the concept of  Implementation of Priority Queue?
+2- what is binary tree?
+3-  what is leaf nodoes?
+4- what is strictly Binary tree?
+5- what is complete Binary Tree?
+6- how to find the depth of the binary tree?
+
+Lecture No. 12
+1- write down that how we can create tree nodes and also add the new valued in the tree and how its works and create tree?
+
+Lecture No. 13
+1- how to traversing in tree?
+2- write a code example for traversing the BST?
+
+Lecture No. 14
+1- what is recursive calls?
+2- what is preorder recursive method?
+3- what is inorder recurstive method? write its code?
+4- what is postOrder recursive method? write ites code?
+5- 
