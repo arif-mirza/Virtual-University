@@ -1,0 +1,168 @@
+Lecture No.01 
+What is Object-Orientation? 
+01.2. What is a Model? 
+01.5. What is an Object? 
+
+Lecture No.02 
+Information Hiding: 
+
+Lecture No.03
+what is Abstraction? 
+what is classes?
+What is inheritance ? kisi paraent 
+major benefits of inheritance ?
+
+Lecture No.04
+what is generalization?  
+ham ak ki type ki classes ko use karne k liye ham parent class bna lete hen   ye generalization kahte hen. 
+
+what is specialization (Restriction) ?
+jab ham kisi bhi class par koi restriction lagate hen tu is ko speciazlization kahte hen jses ham ne ak class of age define ki aur jab hamne is ko kisi aur jaga use kiya tu ham ne age k sath restriction bhi laga di spouse age (18 : 100);
+
+what is overriding?
+jab ham ak hi function do jaga use karte hen wo bhi new bna kar us k access na karo us ki jaga ak aur us jese function bna lo is ko overriding kahte hen. Ak aysa function jo parent me bhi ho aur child me bhi ho.
+
+what is extension or sub titile?
+ jab ham koi function banate hen aur is me mazeed new features add karte hen tu is ko Extension ya sub title kahte hen.
+
+what is Abstract classes?
+aysi classes jis ko dekh kar ap new classes bnaye drive kare us ko abstract classes kahte hen. Jese koi khyali plao banate hen kisi kaam ka phir us ko implement karte hen. 
+
+what is drived classes?
+jo classes abstract classes se li jate hen is ko drived classes kate hen. 
+
+what  is concrete classes?
+ 
+
+LECTURE NO.05
+what is inheritance? 
+parent aur child k relation of inharience kahte hen. 
+
+what is multiple inheritance?
+one child multiple parents
+example : fish , woman and mermaid
+
+write the advantages and disadvantages of multiple inheritance?
+
+what is association?
+
+Interaction of different objects in OO model (or in problem domain) is known as 
+association.  
+This association can be represented 
+with a line along an arrow head (         ) or without arrow head. 
+jab hamare ak ya ak se zyda objects appas me link karte hen tu is ko association kahte hen.
+
+write the kinds of association?
+
+there are 2 types of assiciation,
+1)  class assiciation => when we link 2 or more classes to each other then its called class assiciation.
+2) Object assiciation => jab hame ak class k object ko kisi dosre class k object k sath interact karte hen tu is ko object assiciation kahte hen.
+
+how many types of object association?
+• Simple Association  =>  The two interacting objects have no intrinsic relationship with other object.
+• Composition 
+• Aggregation 
+
+Simple association ===>
+
+Kinds of Simple Association w.r.t Navigation
+
+1. One-way Association 
+2. Two-way Association 
+	1 - One-way Association 
+	In One way association we can navigate along a single direction only, it is denoted by an arrow towards the server object. 
+
+	2. Two-way Association 
+	In two way association we can navigate in both directions, it is denoted by a line between the associated objects 
+
+Kinds of Simple Association w.r.t Cardinality 
+
+1. Binary Association
+2. Ternary Association 
+3. N-ary Association 
+
+	1. Binary Association
+	It associates objects of exactly two classes; it is denoted by a line, or an arrow between the associated objects. 
+	2. Ternary Association
+	It associates objects of exactly three classes; it is denoted by a diamond with lines connected to associated objects. 
+	students , teacher and Course
+	3. N-ary Association 
+	An association between 3 or more classes its practical examples are very rare. 
+
+What is Composition?
+jab ham ak object bohat sare chute chute parts ko mila kar banate hen tu is ko composition kahte hen.
+definition : An object may be composed of other smaller objects, the relationship between the “part” objects and the “whole” object is known as Composition, Composition is represented by a line with a filled-diamond head towards the composer object 	
+
+what is Aggregation?
+jab do ya do se zyda objects mil kar koi chiz banate hen but is me sari chizon ka ak sath involve hona zarori nai hota. 
+example : aj room hy kese ak room room hota hy agar is koi chiz misiing bhi ho tu ye room hi hota hy. is ko unfilled dimond se zahir kiya jata hy. 
+
+
+LECTURE NO.06
+
+what is Class Compatibility?
+kia koi class dosri class k liye comparitible hy kia isko means k child class parent class ki comparitible hoti hy.
+
+what is Polymorphism?
+jab ham apne ak object ko different anaz se use karte hen tu is ko polymorphism kahte hen.
+
+LECTURE NO.07
+
+1- what are the classes ?
+2- what are the  Abstraction?
+3- what are the member functions?
+
+Lecture No.08
+
+1- what are the member functions?
+2- what are Inline Functions?
+ans) when we want to increase the programe efficiency we use inline function. we use inline keyword in the function to create it.
+3- what are Constructor ?
+ans) constructions are the special function that helps us to initialize the value of data member of functions of the classes.
+4- what are Default Constructor ?
+ans) the constructor having the zero valued of empty string values are called Default constructors.
+5- what is Constructor Overloading?
+ans) when we create more than one constructors of the same class but every constructor have different arguments.
+6- what is copy constructor?
+ans) when we create two objects of the same class constrcutor and assign them to second object after first.
+Student s1;
+Student s2 = s1;
+7- what is shallow copy?
+
+
+Lecture No.09
+1- what is Destructor?
+ans)  Destructor is used to free memory that is allocated through dynamic 
+allocation
+2- what are Accessor Functions?
+ans) for the get the values of private data member the setter and getter functions. 
+3- what is this pointer?
+
+Lecture No.10
+
+1- what are the const member functions ?
+2- Difference between this pointer and  const member functions?
+
+Lecture No.11
+
+what is intialization?
+what is assignment ?
+what is const objects?
+what is Static Variables?
+
+
+Lecture No.12---- review of static Data member
+what is the concept of this pointer in static member functions?
+what is global Variables?
+what is the use of Array of Objects?
+
+Lecture No.13
+1- what is pointer ot object?
+2- write a program to understand this concept?
+
+Lecture No.14
+1- what is the concept of Composition?
+2- write a practical example with code to understand the Composition?
+
+
+

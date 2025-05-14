@@ -1,0 +1,43 @@
+Lecture No. 04 
+1 - what is data independence? how many types of data independence?
+2 - what is physical data independence?
+3- what is logical data independence?
+4- write the Functions of DBMS? write down the names of all.
+5- write the important functions that DBMS performs? 
+6- what is DMS Environments? write downt their names?
+
+Lecture No. 05
+write the steps of database development process?
+what are the Tools Used for Database System Development?
+what are data flow diagrams?
+write all the dfd shapes names and their useage?
+what are the types of DFD ?
+what are the types of data models?
+
+Lecture No. 09
+1- what is relationships?
+2- write down all the types of relationships?
+3- what is Relationship Cardinalities ? write down their types in detail.
+
+Lecture No. 10
+ what are the types of Cardinality ?
+what is Minimum Cardinality ?
+what are the roles in relationships ?
+Recursive Relationship, Multiple Relationships, 
+what is dependencies and write the types also?
+ans) The Existence dependency: Entities ko ak  dosre k liye exsit karna
+Identifier Dependency: jo entity depent kar rahi hoti hy us ko find karne k liye 
+Referential Dependency: foreign key like
+
+Lecture No. 11
+what is Inheritance? 
+what is  Super type ?
+what is  Subtypes ?
+what is Specifying Constraints ? write down their types?
+ans) Total Completeness: super type k all attributes subtype k andar hona 
+Partial Completeness Constraint: super type k sare k sare attribue subtype ko mujood na ho tu partial
+what is Disjointness Constraint ?
+what is Overlap Rule?
+
+Lecture No. 12
+

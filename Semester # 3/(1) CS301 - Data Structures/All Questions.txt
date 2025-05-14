@@ -1,0 +1,61 @@
+Lecture No. 04 
+1- how many method of linked list?
+2- what is doubly link list?
+3- what is Circularly linked list?
+4- what is josephus problem?
+
+
+Lecture No. 05
+
+1- what is the benefits of using circular lst?
+2- what is abstract data types?
+ans )  The term abstract data type (ADT) refers to the basic mathematical concept that defines 
+the data type
+3- what is stacks?
+4-  whats are the interface methods of the stacks? like Push() , pop(), top()?
+5-  how to use Stack implementation using arrays?
+
+Lecture No. 06
+
+1- how to use stacks using Linked List?
+2-  Stack Implementation: Array or Linked List ??
+3- what is the use of Stack?
+4- what are the Precedence of Operators?
+5- write down the Examples of Infix to Postfix?
+
+Lecture No. 07
+
+1- how to  Evaluating postfix expressions?
+2- what is the cencept of Infix to postfix Conversion ?
+
+Lecture No. 08
+1- what is c++ templates?
+2-  what is generic data types?
+3- how are we Implementation of Stack?
+4- how we understand the Function Call Stack?
+
+Lecture No. 09
+1- what is Queues?
+write the uses of Queue by using Array?
+
+Lecture No. 11
+1- what is the concept of  Implementation of Priority Queue?
+2- what is binary tree?
+3-  what is leaf nodoes?
+4- what is strictly Binary tree?
+5- what is complete Binary Tree?
+6- how to find the depth of the binary tree?
+
+Lecture No. 12
+1- write down that how we can create tree nodes and also add the new valued in the tree and how its works and create tree?
+
+Lecture No. 13
+1- how to traversing in tree?
+2- write a code example for traversing the BST?
+
+Lecture No. 14
+1- what is recursive calls?
+2- what is preorder recursive method?
+3- what is inorder recurstive method? write its code?
+4- what is postOrder recursive method? write ites code?
+5- 
