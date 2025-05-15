@@ -40,4 +40,17 @@ what is Disjointness Constraint ?
 what is Overlap Rule?
 
 Lecture No. 12
+1- what is level 0 Diagram? also write down their 3 modules.
+
+Lecture No. 13
+
+Summary 
+sample of database and write how can we create table in the database and how can we understand the relationships amoung them.
+
+Lecture No. 14
+
+RDM all information like their rows, columns, inventions ,history etc.
+
+
+
 

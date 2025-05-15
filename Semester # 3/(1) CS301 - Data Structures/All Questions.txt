@@ -58,4 +58,37 @@ Lecture No. 14
 2- what is preorder recursive method?
 3- what is inorder recurstive method? write its code?
 4- what is postOrder recursive method? write ites code?
-5- 
+
+Lecture No. 15
+Summary
+• Level-order Traversal of a Binary Tree 
+• Storing Other Types of Data in Binary Tree 
+• Binary Search Tree (BST) with Strings 
+• Deleting a Node From BST 
+
+Level-order tranversal means we are visting the every node in the BST one by one and display its value on the screen.
+
+Lecture No. 16
+Summary 
+• Deleting a node in BST 
+• C++ code for remove 
+• Binary Search Tree Class (BST) 
+
+Lecture No. 17
+Summary 
+• Reference Variables 
+• Sample Program 
+
+what is Referece Variable?
+ans) ayse varible jin k pass dosre variable ka address hota hy us ko referrence variable kahte hen. is ko & k sath present karte hen. 
+ 	int *ptr,a=10;
+	ptr = &a;
+	cout<<"\n\n Address of a :"<<ptr;
+
+
+Lecture No. 18
+Summary 
+• Reference Variables 
+• const keyword 
+• Tips 
+
