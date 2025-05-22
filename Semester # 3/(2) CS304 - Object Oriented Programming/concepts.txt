@@ -1,0 +1,12 @@
+Encapsulation = Encapsulation is like a medicine capsule — andar ka powder (data) directly nahi diya jata
+Abstraction = ABSTRACTION matlab — 'Abstract' cheezein dikhana, details chhupana.
+inheritance = 
+Generalization = Specific cheezon ko mila ke ek common class banana.
+Sub-typing (Extension) = Parent type ka ek special version banana.
+Specialization (Restriction) = General cheez ko zyada specific ya limited bana dena.
+Abstract class = Adhoori structure, jo complete tab hoti hai jab koi child class usay extend kare.
+Concrete Class = Wo class jo mukammal ho, jisme har method ka body likha gaya ho.
+Association: Jab 2 classes ka aapas mein rishta ho, lekin dono apne aap mein independent hoon.
+Composition =  "Com" = Complete / Strong Together, "Position" = Jagah / Place
+		Composition: Jab ek class doosri class ke bina kaam hi nahi kar sakti. Dono ka rishta itna mazboot hota hai ke agar parent delete ho, to child bhi delete ho jata hai.
+Polymorphism = Polymorphism ka matlab hai: ek kaam, lekin alag-alag tareeqon se.
