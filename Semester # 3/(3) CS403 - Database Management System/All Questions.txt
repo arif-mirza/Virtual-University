@@ -1,4 +1,4 @@
-Lecture No. 04 
+===================Lecture No. 04=================== 
 1 - what is data independence? how many types of data independence?
 2 - what is physical data independence?
 3- what is logical data independence?
@@ -6,7 +6,7 @@ Lecture No. 04
 5- write the important functions that DBMS performs? 
 6- what is DMS Environments? write downt their names?
 
-Lecture No. 05
+===================Lecture No. 05===================
 write the steps of database development process?
 what are the Tools Used for Database System Development?
 what are data flow diagrams?
@@ -14,12 +14,55 @@ write all the dfd shapes names and their useage?
 what are the types of DFD ?
 what are the types of data models?
 
-Lecture No. 09
+===================Lecture No. 06===================
+
+Overview of Lecture 
+o Detailed DFD Diagrams: 
+o Database Design Phase 
+o Data Models 
+o Types of Data Models 
+o Types of Database Designs 
+
+===================Lecture No. 07===================
+
+Overview of Lecture 
+o Entity 
+o Different types of Entities 
+
+
+
+
+
+===================Lecture No. 08===================
+Overview of Lecture 
+o Concept of Key and its importance 
+o Different types of keys 
+
+o Super Key 
+o Candidate Key 
+o Primary Key 
+o Alternate Key 
+o Secondary Key 
+o Foreign Key 
+
+
+===================Lecture No. 09===================
 1- what is relationships?
 2- write down all the types of relationships?
 3- what is Relationship Cardinalities ? write down their types in detail.
 
-Lecture No. 10
+===================Lecture No. 10===================
+Overview of Lecture 
+
+o Cardinality Types 
+o Roles in ER Data Model 
+o Expression of Relationship in ER Data Model 
+o Dependency 
+o Existence Dependency  => Entities ko ak  dosre k liye exsit karna
+o Referential Dependency 
+o Enhancements in the ER-Data Model 
+o Subtype and Supertype entities 
+
  what are the types of Cardinality ?
 what is Minimum Cardinality ?
 what are the roles in relationships ?
@@ -29,28 +72,67 @@ ans) The Existence dependency: Entities ko ak  dosre k liye exsit karna
 Identifier Dependency: jo entity depent kar rahi hoti hy us ko find karne k liye 
 Referential Dependency: foreign key like
 
-Lecture No. 11
+===================Lecture No. 11===================
+
+Overview of Lecture 
+o Inheritance 
+o Super type 
+o Subtypes 
+o Constraints 
+o Completeness 
+o Disjointness 
+o Subtype Discrimination 
+
+
 what is Inheritance? 
-what is  Super type ?
-what is  Subtypes ?
+what is  Super type ? super type kahte hen parent ko aur subtype kahte hen child table ko 
+
+what is  Subtypes ? Subtypes hold all the properties of their corresponding super-types. Means all those subtypes which are connected to a specific supertype will have all the properties of their supertype. 
+
 what is Specifying Constraints ? write down their types?
 ans) Total Completeness: super type k all attributes subtype k andar hona 
 Partial Completeness Constraint: super type k sare k sare attribue subtype ko mujood na ho tu partial
-what is Disjointness Constraint ?
-what is Overlap Rule?
 
-Lecture No. 12
+what is Disjointness Constraint ? supertype ak time me ak hi subtype ko follow kar rhi 
+what is Overlap Rule? supertype ak time me ak se zyda bhi subtype ko share kar rha hota hy attributes
+
+what is Subtype Discriminator ?
+This is a tool or a technique which provides us a methodology to determine that to which subtype one instance of a supertype belongs.
+
+===================Lecture No. 12===================
 1- what is level 0 Diagram? also write down their 3 modules.
 
-Lecture No. 13
+============Lecture No. 13===================
 
 Summary 
 sample of database and write how can we create table in the database and how can we understand the relationships amoung them.
 
-Lecture No. 14
+===================Lecture No. 14===================
 
 RDM all information like their rows, columns, inventions ,history etc.
+Introduction to the Relational Data model and their 6 points
 
 
+Lecture No. 15
+Degree of relation => The degree of a relation is the number of columns in that relation.
+Cardinality of relation => the number of rows present in a relation.
+what is foreign key?
+Entity Integrity Constraint: jab ap apne table k ander primary key par constraint lagate ho
+how to convert conceptional db to logical db?
 
 
+Lecture No. 16
+Nothing important things.
+
+Lecture No. 17
+Five basic operators of rational algebra => It consists of a set of operations 
+that take one or two relations as input and produce a new relation as their result.
+its has two types 
+unary operations => jis k ander hame apna operation perform karne k liye ak table ki zarorat hoti hy
+Binaary Operations => jis k ander hame apna operation perform karne k liye two table ki zarorat hoti hy
+Project Opertaors => rows sari select karni hon aur columns kosh select karne hon
+
+
+Lecture No. 18
+joints (Sari ki sari rows ko dosre table ki sari ki sari rows se multiply karna).
+type of joints (5)
