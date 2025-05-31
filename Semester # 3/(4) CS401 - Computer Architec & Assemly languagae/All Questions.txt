@@ -70,4 +70,6 @@ Q#10) what is JNZ? agar zaro a jaye tu jamp kar jao aur agar zero na aye tu jump
 10- what is BITWISE LOGICAL OPERATIONS ? write down all the its operation (AND, OR, XOR, NOT)
 11- what is Selective Bit Clearing ?
 
+====Additional Information=======
+8088 registers?
 
